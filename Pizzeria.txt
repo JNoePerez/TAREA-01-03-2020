@@ -1,0 +1,3 @@
+grande	80	64
+familiar	100	80
+fiesta	100	80
